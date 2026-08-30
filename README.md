@@ -12,7 +12,7 @@ Predicting Blood-Brain Barrier (BBB) penetration is a major bottleneck in Centra
 - **Evaluation Pipeline:** Dual-layer classification combining experimental dataset queries (`b3db_tool.py`) with de novo physicochemical property heuristics (MW, LogP/LogD, TPSA, HBD, HBA, Efflux liability).
 
 ## Qodo Code Review Evidence
-- **Merged Pull Request:** [Insert Merged PR URL here]
+- **Merged Pull Request:** https://github.com/biplab349/BBBP-B3DB-Agent/pull/1
 - **Review Summary:** Qodo analyzed the repository structure, verified tool script modularity (`b3db_tool.py`), and validated agent harness instructions before merging into main.
 
 ## How to Run
