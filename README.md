@@ -13,7 +13,7 @@ Predicting Blood-Brain Barrier (BBB) penetration is a major bottleneck in Centra
 
 ## Qodo Code Review Evidence
 - **Merged Pull Request:** https://github.com/biplab349/BBBP-B3DB-Agent/pull/1
-- **Review Summary:** Qodo analyzed the repository structure, verified tool script modularity (`b3db_tool.py`), and validated agent harness instructions before merging into main.
+- **Review Summary:** Qodo analyzed the initial agent skill definitions (`skills/SKILL.md`), B3DB query script modularity, and repository configuration. High-severity data path checks were resolved, confirming input parameter validation for molecular strings before merging into `main`.
 
 ## How to Run
 1. Clone the repository:
